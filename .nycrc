@@ -1,0 +1,10 @@
+{
+  "exclude": [
+    "server.js"
+  ],
+  "reporter": [
+    "html",
+    "lcov",
+    "text-summary"
+  ]
+}

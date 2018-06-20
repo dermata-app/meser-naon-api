@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 25
+    },
+    "auditLog": "/Users/willymarj/code/mese-naon/meser-naon-api/log/.audit.json",
+    "files": [
+        {
+            "date": 1529523073426,
+            "name": "/Users/willymarj/code/mese-naon/meser-naon-api/log/app-info.log.2018-06-21",
+            "hash": "dfd0f19614db6ac561b69697ddb24940"
+        },
+        {
+            "date": 1529523073427,
+            "name": "/Users/willymarj/code/mese-naon/meser-naon-api/log/app-error.log.2018-06-21 2:31:11",
+            "hash": "b7fb876d6043427e023c026415c52e37"
+        }
+    ]
+}
